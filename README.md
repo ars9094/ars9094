@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Amankumar Rajesh Singh
-- 👀 I’m interested in Coputer software as well as computer hardware.
+- 👀 I’m interested in Computer software as well as computer hardware.
 - 🌱 I’m currently learning Computer  programming.
 - 💞️ I’m looking to collaborate on github.
 - 📫 How to reach me amansinghsoni07@gmail.com / amansinghsony07@gmail.com
